@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Customize Contacts</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="save_contact">Save Contact</string>
+    <string name="enter_contact_user_name">Enter user name</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="enter_contact_email">Enter email</string>
+    <string name="user_name">User\nName: </string>
+    <string name="phone_number">Phone\nNumber: </string>
+    <string name="email_address">Email\nAddress: </string>
+    <string name="list_of_all_contacts">View Contacts</string>
+    <string name="contact_save">Contact has been successfully saved!</string>
+    <string name="contact_update">Contact has been successfully updated!</string>
+    <string name="contact_details_no_change">Contact details have not been changed!</string>
+    <string name="contact_details_update_error">Contact details could not be updated!</string>
+    <string name="contact_delete">Contact has been successfully deleted!</string>
+    <string name="enter_valid_user_name_message">Please enter at least 5 characters</string>
+    <string name="enter_valid_phone_number_message">Please valid (10 digit)phone number</string>
+    <string name="enter_valid_email_address_message">Please enter a valid email address</string>
+    <string name="user_contact_list_screen_label">List of Contacts</string>
+    <string name="user_contact_edit_screen_label">Edit Contacts</string>
+    <string name="user_contact_data_not_available">User contact data not available. Add contacts from home page.</string>
+</resources>
